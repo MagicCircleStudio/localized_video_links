@@ -16,3 +16,5 @@
 
 用unity制作动作游戏吧！EP01| unityでアクションゲームを作ろう！：[传送门]( https://www.bilibili.com/video/av77970254 )
 
+用unity制作动作游戏吧！EP02| unityでアクションゲームを作ろう2：[传送门]( https://www.bilibili.com/video/av78661155 )
+
