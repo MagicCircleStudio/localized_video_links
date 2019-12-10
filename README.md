@@ -12,7 +12,7 @@
 
 实现合金装备崛起的斩切模式 | Metal Gear Rising's Blade Mode | Mix and Jam：[传送门]( https://www.bilibili.com/video/av77844244 )
 
-游戏编程挑战：类鸟群行为 | Coding Adventure: Boids：[传送门]（ https://www.bilibili.com/video/av78704025 ）
+游戏编程挑战：类鸟群行为 | Coding Adventure: Boids：[传送门]( https://www.bilibili.com/video/av78704025 )
 
 用unity制作动作游戏吧！EP01| unityでアクションゲームを作ろう！：[传送门]( https://www.bilibili.com/video/av77970254 )
 
