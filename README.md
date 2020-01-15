@@ -6,13 +6,13 @@
 
 ### 最新
 
-用unity制作动作游戏吧！EP03| unityでアクションゲームを作ろう3：[传送门]( https://www.bilibili.com/video/av79662187 )
+让游戏画面更好看：着色器实现画面特效之102 | Shaders 102 - Basics of Image Effects：[传送门]( https://www.bilibili.com/video/av79777381 )
 
-游戏编程挑战：狗屁不通游戏点子生成器 | Coding Adventure: Game Idea Generator：[传送门]( https://www.bilibili.com/video/av79418020 )
+游戏编程挑战：雨水冲刷侵蚀地形效果 | Coding Adventure: Hydraulic Erosion：[传送门]( https://www.bilibili.com/video/av82192772 )
 
-游戏编程挑战：生成无边的水下世界 体绘制算法 | Coding Adventure: Marching Cubes：[传送门]( https://www.bilibili.com/video/av79262663 )
+Sebastian: 我的十年游戏开发之路 | My First 10 Years of Game Development：[传送门](https://www.bilibili.com/video/av82391422)
 
-让游戏画面更好看：着色器入门之101 | Shaders 101 - Intro to Shaders：[传送门]( https://www.bilibili.com/video/av79036466 )
+用unity制作动作游戏吧！EP04| unityでアクションゲームを作ろう4：[传送门](https://www.bilibili.com/video/av83411630)
 
 
 
@@ -28,6 +28,10 @@
 
 游戏编程挑战：狗屁不通游戏点子生成器 | Coding Adventure: Game Idea Generator：[传送门]( https://www.bilibili.com/video/av79418020 )
 
+游戏编程挑战：雨水冲刷侵蚀地形效果 | Coding Adventure: Hydraulic Erosion：[传送门]( https://www.bilibili.com/video/av82192772 )
+
+Sebastian: 我的十年游戏开发之路 | My First 10 Years of Game Development：[传送门](https://www.bilibili.com/video/av82391422)
+
 纪念碑谷的关卡创作挑战 | Monument Valley's Level Design | Mix and Jam：[传送门]( https://www.bilibili.com/video/av77692640 )
 
 实现合金装备崛起的斩切模式 | Metal Gear Rising's Blade Mode | Mix and Jam：[传送门]( https://www.bilibili.com/video/av77844244 )
@@ -38,6 +42,10 @@
 
 用unity制作动作游戏吧！EP02| unityでアクションゲームを作ろう2：[传送门]( https://www.bilibili.com/video/av78661155 )
 
-用unity制作动作游戏吧！EP03| unityでアクションゲームを作ろう3：[传送门]( https://www.bilibili.com/video/av79662187 )
+用unity制作动作游戏吧！EP03| unityでアクションゲームを作ろう3：[传送门](https://www.bilibili.com/video/av79662187)
+
+用unity制作动作游戏吧！EP04| unityでアクションゲームを作ろう4：[传送门](https://www.bilibili.com/video/av83411630)
 
 让游戏画面更好看：着色器入门之101 | Shaders 101 - Intro to Shaders：[传送门]( https://www.bilibili.com/video/av79036466 )
+
+让游戏画面更好看：着色器实现画面特效之102 | Shaders 102 - Basics of Image Effects：[传送门]( https://www.bilibili.com/video/av79777381 )
